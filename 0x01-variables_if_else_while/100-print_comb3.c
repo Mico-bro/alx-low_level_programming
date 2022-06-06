@@ -19,7 +19,6 @@ int main(void)
 
 			if (digit1 == 8 && digit2 == 9)
 				continue;
-			
 			putchar(',');
 			putchar(' ');
 		}
@@ -29,19 +28,3 @@ int main(void)
 
 	return (0);
 }
-
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Loading complete
