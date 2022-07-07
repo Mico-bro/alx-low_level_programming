@@ -1,5 +1,5 @@
-#ifndef dog_d
-#define dog_d
+#ifndef DOG_H
+#define DOG_H
 
 /*
  * File: dog.h
